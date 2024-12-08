@@ -1,0 +1,10 @@
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:86:9:BSP_GYRO_Init	3
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:144:6:BSP_GYRO_DeInit	1
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:154:6:BSP_GYRO_LowPower	1
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:174:9:BSP_GYRO_ReadID	2
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:189:6:BSP_GYRO_Reset	2
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:203:6:BSP_GYRO_ITConfig	2
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:227:6:BSP_GYRO_EnableIT	2
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:243:6:BSP_GYRO_DisableIT	2
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:256:6:BSP_GYRO_GetXYZ	2
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_gyroscope.c:265:8:BSP_GYRO_CAL	3

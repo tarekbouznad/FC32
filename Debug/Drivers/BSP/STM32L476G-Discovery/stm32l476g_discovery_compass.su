@@ -1,0 +1,5 @@
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_compass.c:93:23:BSP_COMPASS_Init	40	static
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_compass.c:169:6:BSP_COMPASS_DeInit	8	static
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_compass.c:180:6:BSP_COMPASS_LowPower	8	static
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_compass.c:206:6:BSP_COMPASS_AccGetXYZ	16	static
+../Drivers/BSP/STM32L476G-Discovery/stm32l476g_discovery_compass.c:223:6:BSP_COMPASS_MagGetXYZ	16	static
